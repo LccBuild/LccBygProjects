@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<project owner="Lccbyg" name="Standardprojekt" label="Ydervægge - Eksempelsamling for billigt bæredygtigt byggeri" description="Konklusion:&#xA;&#xA;De fire betragtede ydervægsløsninger er:&#xA;- Tung ydervæg.&#xA;- Tung ydervæg, CO2 reduceret.&#xA;- Let ydervæg – fibercementplader.&#xA;- Let ydervæg – træbeklædning.&#xA;&#xA;De to tunge ydervægsløsninger er begge anlægsøkonomisk væsentligt eller markant dyrere end de to lette løsninger med fibercementplader og træbeklædning. Det ændrer sig ikke synderligt i et langsigtet perspektiv. Set fra et totaløkonomisk perspektiv er de fire løsninger angivet nedenfor i prioriteret rækkefølge fra top til bund, hvor førstnævnte er den billigste løsning over en 50-årig periode, mens sidstnævnte er den dyreste:&#xA;- Let ydervæg – fibercementplader.&#xA;- Let ydervæg – træbeklædning.&#xA;- Tung ydervæg, CO2 reduceret.&#xA;- Tung ydervæg.&#xA;&#xA;De to lette facadeløsninger er begge væsentligt mindre klimabelastende end de to tunge facadeløsninger ved etablering. Forskellene mellem de fire facadeløsninger snævres noget ind over en 50-årig periode, hvor den lette løsning med træbeklædning ender på samme niveau som den lette løsning med fibercementplader. De to lette løsninger er dog fortsat væsentlig mindre klimabelastende end de to tunge løsninger.&#xA;Set fra et klimamæssigt perspektiv er de fire facadeløsninger angivet nedenfor i prioriteret rækkefølge fra top til bund, hvor førstnævnte er den mindst klimabelastende facadeløsning over en 50-årig periode, mens sidstnævnte er den mest klimabelastende:&#xA;- Let ydervæg – træbeklædning.&#xA;- Let ydervæg – fibercementplader.&#xA;- Tung ydervæg, CO2 reduceret.&#xA;- Tung ydervæg.&#xA;&#xA;Samlet set scorer de to lette facadeløsninger bedst på både totaløkonomi og klima, mens de to tunge facadeløsninger klarer sig dårligst på begge parametre. Ud fra et totaløkonomisk perspektiv vil den lette ydervæg med fibercementplader være klart bedst, mens begge de lette løsninger med træbeklædning og fibercementplader klarer sig stort set lige godt klimamæssigt på den lange bane. Den lette facadeløsning med fibercementplader synes således at være den bedste ud fra både et totaløkonomisk og klimamæssigt perspektiv.&#xA;&#xA;&#xA;Generelt: &#xA;&#xA;Dette projekt præsenterer et katalog over byggetekniske løsninger med fokus på miljømæssig og økonomisk bæredygtighed for centrale bygningsdele i boligbyggeri. Kataloget omfatter en systematisk analyse af ydervægge, tage og etageadskillelser, hvor hver bygningsdel er repræsenteret med én konventionel referenceløsning og tre klimavenlige alternativer.&#xA;&#xA;For at sikre en grundig og sammenlignelig vurdering analyseres hver løsning ud fra både deres totaløkonomi over en 50-årig periode og deres klimapåvirkning over en 50-årig periode med særligt fokus på CO2-udledning. Analyserne inkluderer både direkte omkostninger til etablering og drift samt de samfundsøkonomiske konsekvenser gennem beregning af CO2-skyggepriser baseret på officielle nøgletal fra Finansministeriet og Klimarådet.&#xA;&#xA;Alle præsenterede løsninger er praktisk anvendelige og repræsenterer reelle alternativer for etageboligbyggeri og rækkehuse. Projektet fokuserer specifikt på CO2-emissioner som primær miljøindikator, hvilket muliggør en målrettet sammenligning af løsningernes klimapåvirkning. Dette giver bygherrer og rådgivere et konkret grundlag for at vælge klimavenlige løsninger med dokumenteret effekt og økonomi.&#xA;&#xA;Dette eksempel er en del af den nationale strategi for bæredygtigt byggeri, som du kan læse mere om her: https://www.sbst.dk/byggeri/baeredygtigt-byggeri/national-strategi-for-baeredygtigt-byggeri&#xA;&#xA;Priserne på løsningerne er primært fra Molio Prisdata: https://molio.dk/produkter/digitale-vaerktojer/prisdata&#xA;LCA beregningerne er foretaget i LCAbyg 2023: https://www.lcabyg.dk/&#xA;&#xA;Du kan finde baggrundsfiler til løsningerne på: https://github.com/LccBuild/LccBygProjects&#xA;" impactscenario="flat" shadowpricescenario="noshadowprice" date="2024-12-23" indexdevelopment="inflationgeneral" impactdevelopment="general" developmentset="real" end="120" generator="4.0.49">
+<project owner="LCCbyg" name="Standardprojekt" label="Ydervægge - Eksempelsamling for billigt bæredygtigt byggeri" description="Konklusion:&#xA;&#xA;De fire betragtede ydervægsløsninger er:&#xA;- Tung ydervæg.&#xA;- Tung ydervæg, CO2 reduceret.&#xA;- Let ydervæg – fibercementplader.&#xA;- Let ydervæg – træbeklædning.&#xA;&#xA;De to tunge ydervægsløsninger er begge anlægsøkonomisk væsentligt eller markant dyrere end de to lette løsninger med fibercementplader og træbeklædning. Det ændrer sig ikke synderligt i et langsigtet perspektiv. Set fra et totaløkonomisk perspektiv er de fire løsninger angivet nedenfor i prioriteret rækkefølge fra top til bund, hvor førstnævnte er den billigste løsning over en 50-årig periode, mens sidstnævnte er den dyreste:&#xA;- Let ydervæg – fibercementplader.&#xA;- Let ydervæg – træbeklædning.&#xA;- Tung ydervæg, CO2 reduceret.&#xA;- Tung ydervæg.&#xA;&#xA;De to lette facadeløsninger er begge væsentligt mindre klimabelastende end de to tunge facadeløsninger ved etablering. Forskellene mellem de fire facadeløsninger snævres noget ind over en 50-årig periode, hvor den lette løsning med træbeklædning ender på samme niveau som den lette løsning med fibercementplader. De to lette løsninger er dog fortsat væsentlig mindre klimabelastende end de to tunge løsninger.&#xA;Set fra et klimamæssigt perspektiv er de fire facadeløsninger angivet nedenfor i prioriteret rækkefølge fra top til bund, hvor førstnævnte er den mindst klimabelastende facadeløsning over en 50-årig periode, mens sidstnævnte er den mest klimabelastende:&#xA;- Let ydervæg – træbeklædning.&#xA;- Let ydervæg – fibercementplader.&#xA;- Tung ydervæg, CO2 reduceret.&#xA;- Tung ydervæg.&#xA;&#xA;Samlet set scorer de to lette facadeløsninger bedst på både totaløkonomi og klima, mens de to tunge facadeløsninger klarer sig dårligst på begge parametre. Ud fra et totaløkonomisk perspektiv vil den lette ydervæg med fibercementplader være klart bedst, mens begge de lette løsninger med træbeklædning og fibercementplader klarer sig stort set lige godt klimamæssigt på den lange bane. Den lette facadeløsning med fibercementplader synes således at være den bedste ud fra både et totaløkonomisk og klimamæssigt perspektiv.&#xA;&#xA;&#xA;Generelt:&#xA;&#xA;Dette projekt præsenterer et katalog over byggetekniske løsninger med fokus på miljømæssig og økonomisk bæredygtighed for centrale bygningsdele i boligbyggeri. Kataloget omfatter en systematisk analyse af ydervægge, tage og etageadskillelser, hvor hver bygningsdel er repræsenteret med én konventionel referenceløsning og tre klimavenlige alternativer.&#xA;&#xA;For at sikre en grundig og sammenlignelig vurdering analyseres hver løsning ud fra både deres totaløkonomi over en 50-årig periode og deres klimapåvirkning over en 50-årig periode med særligt fokus på CO2-udledning. Analyserne inkluderer både direkte omkostninger til etablering og drift samt de samfundsøkonomiske konsekvenser gennem beregning af CO2-skyggepriser baseret på officielle nøgletal fra Finansministeriet og Klimarådet.&#xA;&#xA;Alle præsenterede løsninger er praktisk anvendelige og repræsenterer reelle alternativer for etageboligbyggeri og rækkehuse. Projektet fokuserer specifikt på CO2-emissioner som primær miljøindikator, hvilket muliggør en målrettet sammenligning af løsningernes klimapåvirkning. Dette giver bygherrer og rådgivere et konkret grundlag for at vælge klimavenlige løsninger med dokumenteret effekt og økonomi.&#xA;&#xA;Denne eksempelsamling er en del af den nationale strategi for bæredygtigt byggeri, som du kan læse mere om her: https://www.sbst.dk/byggeri/baeredygtigt-byggeri/national-strategi-for-baeredygtigt-byggeri&#xA;&#xA;Priserne på løsningerne er primært fra Molio Prisdata: https://molio.dk/produkter/digitale-vaerktojer/prisdata&#xA;LCA beregningerne er foretaget i LCAbyg 2023: https://www.lcabyg.dk/&#xA;&#xA;Du kan finde baggrundsfiler til løsningerne på: https://github.com/LccBuild/LccBygProjects&#xA;" impactscenario="flat" shadowpricescenario="noshadowprice" date="2024-12-29" indexdevelopment="inflationgeneral" impactdevelopment="general" developmentset="real" end="120" generator="4.0.49">
 	<versions>
-		<version name="Tung ydervæg" description="Tung ydervæg med formur som muret væg i gule blødstrøgne teglsten, mineraluldsisolering, bagmur af præfabrikeret betonelement. Indvendigt spartlet og malet med plastmaling. " impactscenario="buildcollection" shadowpricescenario="kfasedshadowprice" grossfloorarea="1056.00" end="50">
+		<version name="Tung ydervæg" description="Tung ydervæg med formur som muret væg i gule blødstrøgne teglsten, mineraluldsisolering, bagmur af præfabrikeret betonelement. Indvendigt spartlet og malet med plastmaling. " impactscenario="buildcollection" shadowpricescenario="kfasedshadowprice" grossfloorarea="1056.00" exclude="true" end="50">
 			<criteria>
-				<criterion name="Anden målsætning" label="Livscyklusøkonomi (LCC)" description="Generelt" comment="Løsningen har den dårligste nutidsværdi af de 4 undersøgte vægløsninger" value="5" amount="-3">
+				<criterion name="Anden målsætning" label="Livscyklusøkonomi (LCC)" description="Generelt" comment="Løsningen har den dårligste nutidsværdi af de 4 undersøgte vægløsninger." value="5" amount="-3">
 					<information>
 						<p> En vurdering af løsningens samlede økonomiske konsekvenser gennem hele dens levetid. Dette omfatter både initiale omkostninger, driftsudgifter, vedligeholdelse og bortskaffelse. En god løsning har lave levetidsomkostninger i forhold til den værdi den skaber, mens en mindre god løsning har uforholdsmæssigt høje omkostninger eller skjulte udgifter senere i levetiden.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 1" label="Livscyklusvurdering - LCA" description="Generelt" comment="Løsningen har den største CO2 udledning af de 4 undersøgte vægløsninger" value="5" amount="-3">
+				<criterion name="Anden målsætning 1" label="Livscyklusvurdering - LCA" description="Generelt" comment="Løsningen har den største CO2 udledning af de 4 undersøgte vægløsninger." value="5" amount="-3">
 					<information>
 						<p>En helhedsvurdering af løsningens miljøpåvirkning gennem hele dens livscyklus - fra udvinding af råmaterialer til bortskaffelse. Dette inkluderer energiforbrug, CO2-udledning, ressourceforbrug og andre miljøpåvirkninger i alle faser. En god løsning minimerer den samlede miljøbelastning og anvender miljøvenlige materialer og processer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 2" label="Bygbarhed" description="Generelt" comment="Løsningen er velafprøvet med standardiserede arbejdsprocesser og kræver almindeligt tilgængelige kompetencer" value="4" amount="2">
+				<criterion name="Anden målsætning 2" label="Bygbarhed" description="Generelt" comment="Løsningen er velafprøvet med standardiserede arbejdsprocesser og kræver almindeligt tilgængelige kompetencer." value="4" amount="3">
 					<information>
 						<p>En vurdering af hvor praktisk og effektiv løsningen er at implementere under faktiske forhold. Dette omfatter kompleksitet i udførelsen, behov for specialkompetencer, risici i byggefasen og koordinering mellem faggrupper. En god løsning er logisk opbygget, har klare grænseflader og kan udføres effektivt med almindeligt tilgængelige kompetencer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 3" label="Erfaring med løsningen - byggeskik" description="Generelt" comment="Der er meget omfattende erfaring med løsningen i dansk byggeri" value="4" amount="3">
+				<criterion name="Anden målsætning 3" label="Erfaring med løsningen - byggeskik" description="Generelt" comment="Der er meget omfattende erfaring med løsningen gennem mange årtier i dansk byggeri." value="4" amount="3">
 					<information>
 						<p>En vurdering af hvor gennemprøvet og dokumenteret løsningen er i praksis. Dette omfatter erfaringer, kendt byggeskik og tidligere anvendelser under lignende forhold. En god løsning bygger på velafprøvede principper og har dokumenterede gode resultater, mens en mindre god løsning mangler praktisk dokumentation eller har kendte problemer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 4" label="Genanvendelighed" description="Generelt" comment="Tegl og beton kan nedknuses til genanvendelse, men sammensatte konstruktioner gør direkte genbrug vanskeligt" value="3" amount="-2">
+				<criterion name="Anden målsætning 4" label="Genanvendelighed" description="Generelt" comment="Tegl og beton kan nedknuses til genanvendelse, men sammensatte konstruktioner gør direkte genbrug vanskeligt." value="3" amount="1">
 					<information>
 						<p>En vurdering af hvor let løsningens komponenter og materialer kan genbruges eller genanvendes efter endt levetid. Dette omfatter muligheden for adskillelse, sortering og oparbejdning til ny anvendelse. En god løsning er designet med tanke på cirkulær økonomi og anvender materialer der effektivt kan indgå i nye kredsløb.</p>
 					</information>
@@ -85,8 +85,8 @@
 							<thead>
 								<tr>
 									<th>Navn</th>
-									<th>Mængde (m2)</th>
-									<th>Mængdereguleret enhedspris (kr/m2)</th>
+									<th>Mængde [m2]</th>
+									<th>Mængdereguleret enhedspris [kr/m2]</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -103,7 +103,7 @@
 							</tbody>
 						</table>
 						<p>
-							<em>Delelementer i bygningsdel brugt til lca beregning. Værdierne angivet som kg CO2-ækv/m²/år</em>
+							<em>Delelementer i bygningsdel brugt til LCA-beregning. Værdierne angivet som kg CO2-ækv/m²/år</em>
 						</p>
 						<table>
 							<thead>
@@ -236,29 +236,29 @@
 				</costsbycode>
 			</results>
 		</version>
-		<version name="Tung ydervæg - CO2 reduceret" description="Tung ydervæg med formur som muret væg i CO2-reducerede gule blødstrøgne teglsten, papiruldsisolering, bagmur af præfabrikeret betonelement i CO2-reduceret beton. Indvendigt spartlet og malet med plastfri maling." impactscenario="buildcollection" shadowpricescenario="kfasedshadowprice" grossfloorarea="1056.00" end="50">
+		<version name="Tung ydervæg - CO2 reduceret" description="Tung ydervæg med formur som muret væg i CO2-reducerede gule blødstrøgne teglsten, papiruldsisolering, bagmur af præfabrikeret betonelement i CO2-reduceret beton. Indvendigt spartlet og malet med plastfri maling." impactscenario="buildcollection" shadowpricescenario="kfasedshadowprice" grossfloorarea="1056.00" exclude="true" end="50">
 			<criteria>
-				<criterion name="Anden målsætning" label="Livscyklusøkonomi (LCC)" description="Generelt" comment="Løsningen har den næstdårligste nutidsværdi af de 4 undersøgte vægløsninger" value="5" amount="-2">
+				<criterion name="Anden målsætning" label="Livscyklusøkonomi (LCC)" description="Generelt" comment="Løsningen har den næstdårligste nutidsværdi af de 4 undersøgte vægløsninger." value="5" amount="-2">
 					<information>
 						<p> En vurdering af løsningens samlede økonomiske konsekvenser gennem hele dens levetid. Dette omfatter både initiale omkostninger, driftsudgifter, vedligeholdelse og bortskaffelse. En god løsning har lave levetidsomkostninger i forhold til den værdi den skaber, mens en mindre god løsning har uforholdsmæssigt høje omkostninger eller skjulte udgifter senere i levetiden.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 1" label="Livscyklusvurdering - LCA" description="Generelt" comment="Løsningen har den næststørste CO2 udledning af de 4 undersøgte vægløsninger" value="5" amount="-2">
+				<criterion name="Anden målsætning 1" label="Livscyklusvurdering - LCA" description="Generelt" comment="Løsningen har den næststørste CO2 udledning af de 4 undersøgte vægløsninger." value="5" amount="-2">
 					<information>
 						<p>En helhedsvurdering af løsningens miljøpåvirkning gennem hele dens livscyklus - fra udvinding af råmaterialer til bortskaffelse. Dette inkluderer energiforbrug, CO2-udledning, ressourceforbrug og andre miljøpåvirkninger i alle faser. En god løsning minimerer den samlede miljøbelastning og anvender miljøvenlige materialer og processer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 2" label="Bygbarhed" description="Generelt" comment="Løsningen bygger på velkendte principper men kræver særlig opmærksomhed på materialevalg" value="4" amount="2">
+				<criterion name="Anden målsætning 2" label="Bygbarhed" description="Generelt" comment="Løsningen bygger på velkendte og gennemafprøvede grundprincipper, som er baseret på standardiserede arbejdsprocesser og kræver almindeligt tilgængelige kompetencer." value="4" amount="2">
 					<information>
 						<p>En vurdering af hvor praktisk og effektiv løsningen er at implementere under faktiske forhold. Dette omfatter kompleksitet i udførelsen, behov for specialkompetencer, risici i byggefasen og koordinering mellem faggrupper. En god løsning er logisk opbygget, har klare grænseflader og kan udføres effektivt med almindeligt tilgængelige kompetencer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 3" label="Erfaring med løsningen - byggeskik" description="Generelt" comment="Grundprincipperne er velkendte, men der er begrænset erfaring med de CO2-reducerede materialer" value="4" amount="1">
+				<criterion name="Anden målsætning 3" label="Erfaring med løsningen - byggeskik" description="Generelt" comment="Der er begrænset erfaring med de CO2-reducerede materialer, men løsningen er en direkte substitution af en velkendt løsning, som har været anvendt i mange årtier i dansk byggeri." value="4" amount="2">
 					<information>
 						<p>En vurdering af hvor gennemprøvet og dokumenteret løsningen er i praksis. Dette omfatter erfaringer, kendt byggeskik og tidligere anvendelser under lignende forhold. En god løsning bygger på velafprøvede principper og har dokumenterede gode resultater, mens en mindre god løsning mangler praktisk dokumentation eller har kendte problemer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 4" label="Genanvendelighed" description="Generelt" comment="De CO2-reducerede materialer har lidt bedre genanvendelsespotentiale, men sammensatte konstruktioner er stadig en udfordring" value="3" amount="-1">
+				<criterion name="Anden målsætning 4" label="Genanvendelighed" description="Generelt" comment="Tegl og beton kan nedknuses til genanvendelse, men sammensatte konstruktioner gør direkte genbrug vanskeligt." value="3" amount="1">
 					<information>
 						<p>En vurdering af hvor let løsningens komponenter og materialer kan genbruges eller genanvendes efter endt levetid. Dette omfatter muligheden for adskillelse, sortering og oparbejdning til ny anvendelse. En god løsning er designet med tanke på cirkulær økonomi og anvender materialer der effektivt kan indgå i nye kredsløb.</p>
 					</information>
@@ -320,8 +320,8 @@
 							<thead>
 								<tr>
 									<th>Navn</th>
-									<th>Mængde (m2)</th>
-									<th>Mængdereguleret enhedspris (kr/m2)</th>
+									<th>Mængde [m2]</th>
+									<th>Mængdereguleret enhedspris [kr/m2]</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -338,7 +338,7 @@
 							</tbody>
 						</table>
 						<p>
-							<em>Delelementer i bygningsdel brugt til lca beregning. Værdierne angivet som kg CO2-ækv/m²/år</em>
+							<em>Delelementer i bygningsdel brugt til LCA-beregning. Værdierne angivet som kg CO2-ækv/m²/år</em>
 						</p>
 						<table>
 							<thead>
@@ -459,29 +459,29 @@
 				</costsbycode>
 			</results>
 		</version>
-		<version name="Let ydervæg - fibercementplader" description="Ydre lag er beklædt med fibercementplader med ventileret hulrum og vindspærre. Bærende lag med træskeletkonstruktion og mineraluldsisolering. Installationslag med mineraluldsisolering og afsluttende overflade i gips, spartlet og malet med akrylmaling." impactscenario="buildcollection" shadowpricescenario="kfasedshadowprice" grossfloorarea="1056.00" end="50">
+		<version name="Let ydervæg - fibercementplader" description="Ydre lag er beklædt med fibercementplader med ventileret hulrum og vindspærre. Bærende lag med træskeletkonstruktion og mineraluldsisolering. Installationslag med mineraluldsisolering og afsluttende overflade i gips, spartlet og malet med akrylmaling." impactscenario="buildcollection" shadowpricescenario="kfasedshadowprice" grossfloorarea="1056.00" exclude="true" end="50">
 			<criteria>
-				<criterion name="Anden målsætning" label="Livscyklusøkonomi (LCC)" description="Generelt" comment="Løsningen har den bedste nutidsværdi af de 4 undersøgte vægløsninger" value="5" amount="3">
+				<criterion name="Anden målsætning" label="Livscyklusøkonomi (LCC)" description="Generelt" comment="Løsningen har den bedste nutidsværdi af de 4 undersøgte vægløsninger." value="5" amount="3">
 					<information>
 						<p> En vurdering af løsningens samlede økonomiske konsekvenser gennem hele dens levetid. Dette omfatter både initiale omkostninger, driftsudgifter, vedligeholdelse og bortskaffelse. En god løsning har lave levetidsomkostninger i forhold til den værdi den skaber, mens en mindre god løsning har uforholdsmæssigt høje omkostninger eller skjulte udgifter senere i levetiden.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 1" label="Livscyklusvurdering - LCA" description="Generelt" comment="Løsningen har den næstmindste CO2 udledning af de 4 undersøgte vægløsninger" value="5" amount="1">
+				<criterion name="Anden målsætning 1" label="Livscyklusvurdering - LCA" description="Generelt" comment="Løsningen har den næstmindste CO2 udledning af de 4 undersøgte vægløsninger." value="5" amount="1">
 					<information>
 						<p>En helhedsvurdering af løsningens miljøpåvirkning gennem hele dens livscyklus - fra udvinding af råmaterialer til bortskaffelse. Dette inkluderer energiforbrug, CO2-udledning, ressourceforbrug og andre miljøpåvirkninger i alle faser. En god løsning minimerer den samlede miljøbelastning og anvender miljøvenlige materialer og processer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 2" label="Bygbarhed" description="Generelt" comment="Let at montere og velkendt proces, dog kræves præcision ved samlinger" value="4" amount="2">
+				<criterion name="Anden målsætning 2" label="Bygbarhed" description="Generelt" comment="Let at montere og velkendt proces, men kræver præcision ved samlinger." value="4" amount="2">
 					<information>
 						<p>En vurdering af hvor praktisk og effektiv løsningen er at implementere under faktiske forhold. Dette omfatter kompleksitet i udførelsen, behov for specialkompetencer, risici i byggefasen og koordinering mellem faggrupper. En god løsning er logisk opbygget, har klare grænseflader og kan udføres effektivt med almindeligt tilgængelige kompetencer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 3" label="Erfaring med løsningen - byggeskik" description="Generelt" comment="Der er god erfaring med løsningen, særligt i lettere byggeri" value="4" amount="1">
+				<criterion name="Anden målsætning 3" label="Erfaring med løsningen - byggeskik" description="Generelt" comment="Der er god erfaring med løsningen, særligt i lettere byggeri." value="4" amount="1">
 					<information>
 						<p>En vurdering af hvor gennemprøvet og dokumenteret løsningen er i praksis. Dette omfatter erfaringer, kendt byggeskik og tidligere anvendelser under lignende forhold. En god løsning bygger på velafprøvede principper og har dokumenterede gode resultater, mens en mindre god løsning mangler praktisk dokumentation eller har kendte problemer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 4" label="Genanvendelighed" description="Generelt" comment="Fibercementplader er vanskelige at genbruge, men træskelettet har potentiale" value="3" amount="-1">
+				<criterion name="Anden målsætning 4" label="Genanvendelighed" description="Generelt" comment="Fibercementplader er vanskelige at genbruge, men træskelettet har potentiale." value="3" amount="-1">
 					<information>
 						<p>En vurdering af hvor let løsningens komponenter og materialer kan genbruges eller genanvendes efter endt levetid. Dette omfatter muligheden for adskillelse, sortering og oparbejdning til ny anvendelse. En god løsning er designet med tanke på cirkulær økonomi og anvender materialer der effektivt kan indgå i nye kredsløb.</p>
 					</information>
@@ -543,9 +543,9 @@
 							<thead>
 								<tr>
 									<th>Navn</th>
-									<th>Mængde (m2)</th>
-									<th>Mængdereguleret enhedspris (kr/m2)</th>
-									<th>Samlet pris (kr)</th>
+									<th>Mængde [m2]</th>
+									<th>Mængdereguleret enhedspris [kr/m2]</th>
+									<th>Samlet pris [kr.]</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -564,21 +564,21 @@
 							</tbody>
 						</table>
 						<p>
-							<em>Delelementer i bygningsdel brugt til lca beregning. Værdierne angivet som kg CO2-ækv/m²/år</em>
+							<em>Delelementer i bygningsdel brugt til LCA-beregning. Værdierne angivet som kg CO2-ækv/m²/år</em>
 						</p>
 						<table>
 							<thead>
 								<tr>
 									<th>Navn</th>
 									<th>Udskiftninger</th>
-									<th>sum</th>
-									<th>a1_3</th>
-									<th>a4</th>
-									<th>a5</th>
-									<th>b4</th>
-									<th>b6</th>
-									<th>c3</th>
-									<th>c4</th>
+									<th>Sum</th>
+									<th>A1_3</th>
+									<th>A4</th>
+									<th>A5</th>
+									<th>B4</th>
+									<th>B6</th>
+									<th>C3</th>
+									<th>C4</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -733,29 +733,29 @@
 				</costsbycode>
 			</results>
 		</version>
-		<version name="Let ydervæg - træbeklædning" description="Præfabrikerede moduler i træ. Ydre lag med træbeklædning, ventileret hulrum og vindspærre. Bærende lag med træskeletkonstruktion og papiruldsisolering. Installationslag med mineraluldsisolering og afsluttende overflade i gips, spartlet og malet med plastfri maling." impactscenario="buildcollection" shadowpricescenario="kfasedshadowprice" grossfloorarea="1056.00" end="50">
+		<version name="Let ydervæg - træbeklædning" description="Præfabrikerede moduler i træ. Ydre lag med træbeklædning, ventileret hulrum og vindspærre. Bærende lag med træskeletkonstruktion og papiruldsisolering. Installationslag med mineraluldsisolering og afsluttende overflade i gips, spartlet og malet med plastfri maling." impactscenario="buildcollection" shadowpricescenario="kfasedshadowprice" grossfloorarea="1056.00" exclude="true" end="50">
 			<criteria>
-				<criterion name="Anden målsætning" label="Livscyklusøkonomi (LCC)" description="Generelt" comment="Løsningen har den næstbedste nutidsværdi af de 4 undersøgte vægløsninger." value="5" amount="-2">
+				<criterion name="Anden målsætning" label="Livscyklusøkonomi (LCC)" description="Generelt" comment="Løsningen har den næstbedste nutidsværdi af de 4 undersøgte vægløsninger." value="5" amount="1">
 					<information>
 						<p> En vurdering af løsningens samlede økonomiske konsekvenser gennem hele dens levetid. Dette omfatter både initiale omkostninger, driftsudgifter, vedligeholdelse og bortskaffelse. En god løsning har lave levetidsomkostninger i forhold til den værdi den skaber, mens en mindre god løsning har uforholdsmæssigt høje omkostninger eller skjulte udgifter senere i levetiden.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 1" label="Livscyklusvurdering - LCA" description="Generelt" comment="Løsningen har den mindste CO2 udledning af de 4 undersøgte vægløsninger" value="5" amount="3">
+				<criterion name="Anden målsætning 1" label="Livscyklusvurdering - LCA" description="Generelt" comment="Løsningen har den mindste CO2 udledning af de 4 undersøgte vægløsninger." value="5" amount="3">
 					<information>
 						<p>En helhedsvurdering af løsningens miljøpåvirkning gennem hele dens livscyklus - fra udvinding af råmaterialer til bortskaffelse. Dette inkluderer energiforbrug, CO2-udledning, ressourceforbrug og andre miljøpåvirkninger i alle faser. En god løsning minimerer den samlede miljøbelastning og anvender miljøvenlige materialer og processer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 2" label="Bygbarhed" description="Generelt" comment="Kan udføres med almindelige tømrerkompetencer og med høj præfabrikationsgrad" value="4" amount="2">
+				<criterion name="Anden målsætning 2" label="Bygbarhed" description="Generelt" comment="Kan udføres med almindelige tømrerkompetencer og med høj præfabrikationsgrad." value="4" amount="2">
 					<information>
 						<p>En vurdering af hvor praktisk og effektiv løsningen er at implementere under faktiske forhold. Dette omfatter kompleksitet i udførelsen, behov for specialkompetencer, risici i byggefasen og koordinering mellem faggrupper. En god løsning er logisk opbygget, har klare grænseflader og kan udføres effektivt med almindeligt tilgængelige kompetencer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 3" label="Erfaring med løsningen - byggeskik" description="Generelt" comment="God erfaring med løsningen, særligt fra parcelhusbyggeri" value="4" amount="1">
+				<criterion name="Anden målsætning 3" label="Erfaring med løsningen - byggeskik" description="Generelt" comment="Løsningen er mindre udbredt i dansk byggeri, men der er god erfaring med løsningen, særligt fra sommerhuse og parcelhusbyggeri." value="4" amount="1">
 					<information>
 						<p>En vurdering af hvor gennemprøvet og dokumenteret løsningen er i praksis. Dette omfatter erfaringer, kendt byggeskik og tidligere anvendelser under lignende forhold. En god løsning bygger på velafprøvede principper og har dokumenterede gode resultater, mens en mindre god løsning mangler praktisk dokumentation eller har kendte problemer.</p>
 					</information>
 				</criterion>
-				<criterion name="Anden målsætning 4" label="Genanvendelighed" description="Generelt" comment="God mulighed for genbrug og genanvendelse af trækomponenter" value="3" amount="2">
+				<criterion name="Anden målsætning 4" label="Genanvendelighed" description="Generelt" comment="Der er god mulighed for genbrug og genanvendelse af ubehandlede og ubeskadigede trækomponenter." value="3" amount="1">
 					<information>
 						<p>En vurdering af hvor let løsningens komponenter og materialer kan genbruges eller genanvendes efter endt levetid. Dette omfatter muligheden for adskillelse, sortering og oparbejdning til ny anvendelse. En god løsning er designet med tanke på cirkulær økonomi og anvender materialer der effektivt kan indgå i nye kredsløb.</p>
 					</information>
@@ -817,9 +817,9 @@
 							<thead>
 								<tr>
 									<th>Navn</th>
-									<th>Mængde (m2)</th>
-									<th>Mængdereguleret enhedspris (kr/m2)</th>
-									<th>Samlet pris (kr)</th>
+									<th>Mængde [m2]</th>
+									<th>Mængdereguleret enhedspris [kr/m2]</th>
+									<th>Samlet pris [kr.]</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -1064,7 +1064,7 @@
 			<input name="constructionyear" label="Opførelsesår" />
 		</reportsection>
 		<reportsection name="projectcontactinformation" label="Kontaktoplysninger for projektet" description="Kontaktoplysninger for projektet" type="input">
-			<input name="projectrole" label="Rolle" type="h3" />
+			<input name="projectrole" label="Rolle" type="h3">AAU BUILD</input>
 			<input name="contactname" label="Kontaktperson/Projektleder" />
 			<input name="contactmail" label="E-mail" />
 			<input name="companygsm" label="Telefon">lccbyg@build.aau.dk</input>
@@ -1208,104 +1208,6 @@
 			<row name="1" label="Lidt positiv" description="Lidt positiv vurdering svarende til en vis forbedring af situation i afdelingen efter renoveringen ift. renoveringsmålsætning." color="#99ffff" amount="1" />
 			<row name="2" label="Moderat positiv" description="Moderat positiv vurdering svarende til en væsentlig forbedring af situation i afdelingen efter renoveringen ift. renoveringsmålsætning." color="#00ffff" amount="2" />
 			<row name="-3" label="Meget positiv" description="Meget positiv vurdering svarende til en markant forbedring af situation i afdelingen efter renoveringen ift. renoveringsmålsætning." color="#00ff00" amount="3" />
-		</system>
-		<system name="lcamodules">
-			<group name="A1_3" code="A1_3" />
-			<group name="B2" code="B2" />
-			<group name="B3" code="B3" exclude="true" />
-			<group name="B4" code="B4" />
-			<group name="B5" code="B5" />
-			<group name="B6" code="B6" />
-			<group name="B7" code="B7" />
-			<group name="C1" code="C1" />
-			<group name="C2" code="C2" />
-			<group name="C3" code="C3" />
-			<group name="C4" code="C4" />
-			<group name="D" code="D" />
-		</system>
-		<system name="lcamodules">
-			<group name="A1_3" code="A1_3" />
-			<group name="B2" code="B2" />
-			<group name="B3" code="B3" exclude="true" />
-			<group name="B4" code="B4" />
-			<group name="B5" code="B5" />
-			<group name="B6" code="B6" />
-			<group name="B7" code="B7" />
-			<group name="C1" code="C1" />
-			<group name="C2" code="C2" />
-			<group name="C3" code="C3" />
-			<group name="C4" code="C4" />
-			<group name="D" code="D" />
-		</system>
-		<system name="lcamodules">
-			<group name="A1_3" code="A1_3" />
-			<group name="B2" code="B2" />
-			<group name="B3" code="B3" exclude="true" />
-			<group name="B4" code="B4" />
-			<group name="B5" code="B5" />
-			<group name="B6" code="B6" />
-			<group name="B7" code="B7" />
-			<group name="C1" code="C1" />
-			<group name="C2" code="C2" />
-			<group name="C3" code="C3" />
-			<group name="C4" code="C4" />
-			<group name="D" code="D" />
-		</system>
-		<system name="lcamodules">
-			<group name="A1_3" code="A1_3" />
-			<group name="B2" code="B2" />
-			<group name="B3" code="B3" exclude="true" />
-			<group name="B4" code="B4" />
-			<group name="B5" code="B5" />
-			<group name="B6" code="B6" />
-			<group name="B7" code="B7" />
-			<group name="C1" code="C1" />
-			<group name="C2" code="C2" />
-			<group name="C3" code="C3" />
-			<group name="C4" code="C4" />
-			<group name="D" code="D" />
-		</system>
-		<system name="lcamodules">
-			<group name="A1_3" code="A1_3" />
-			<group name="B2" code="B2" />
-			<group name="B3" code="B3" exclude="true" />
-			<group name="B4" code="B4" />
-			<group name="B5" code="B5" />
-			<group name="B6" code="B6" />
-			<group name="B7" code="B7" />
-			<group name="C1" code="C1" />
-			<group name="C2" code="C2" />
-			<group name="C3" code="C3" />
-			<group name="C4" code="C4" />
-			<group name="D" code="D" />
-		</system>
-		<system name="lcamodules">
-			<group name="A1_3" code="A1_3" />
-			<group name="B2" code="B2" />
-			<group name="B3" code="B3" exclude="true" />
-			<group name="B4" code="B4" />
-			<group name="B5" code="B5" />
-			<group name="B6" code="B6" />
-			<group name="B7" code="B7" />
-			<group name="C1" code="C1" />
-			<group name="C2" code="C2" />
-			<group name="C3" code="C3" />
-			<group name="C4" code="C4" />
-			<group name="D" code="D" />
-		</system>
-		<system name="lcamodules">
-			<group name="A1_3" code="A1_3" />
-			<group name="B2" code="B2" />
-			<group name="B3" code="B3" exclude="true" />
-			<group name="B4" code="B4" />
-			<group name="B5" code="B5" />
-			<group name="B6" code="B6" />
-			<group name="B7" code="B7" />
-			<group name="C1" code="C1" />
-			<group name="C2" code="C2" />
-			<group name="C3" code="C3" />
-			<group name="C4" code="C4" />
-			<group name="D" code="D" />
 		</system>
 		<system name="lcamodules">
 			<group name="A1_3" code="A1_3" />
