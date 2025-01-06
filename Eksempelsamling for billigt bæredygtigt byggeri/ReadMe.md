@@ -1,6 +1,6 @@
 ## Eksempelsamling for billigt bæredygtigt byggeri
 
-Status ✅✅✅✅✅🔲🔲🔲🔲🔲🔲🔲🔲🔲
+
 
 Kilde: National strategi for bæredygtigt byggeri
 
