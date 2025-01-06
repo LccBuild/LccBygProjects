@@ -1380,6 +1380,20 @@
 			<group name="C4" code="C4" />
 			<group name="D" code="D" />
 		</system>
+		<system name="lcamodules">
+			<group name="A1_3" code="A1_3" />
+			<group name="B2" code="B2" />
+			<group name="B3" code="B3" exclude="true" />
+			<group name="B4" code="B4" />
+			<group name="B5" code="B5" />
+			<group name="B6" code="B6" />
+			<group name="B7" code="B7" />
+			<group name="C1" code="C1" />
+			<group name="C2" code="C2" />
+			<group name="C3" code="C3" />
+			<group name="C4" code="C4" />
+			<group name="D" code="D" />
+		</system>
 	</systems>
 	<developmentsets name="developmentsets" labelssystem="developmentsetslabels">
 		<developmentset name="real" label="Faldende realrente" description="Dette sæt af forudsætninger for kalkulationsrente og prisudvikling skal anvendes af offentlige bygherrer og ved DGNB-certificering efter 2025-manualen. Rentetrappen anvender faldende realrente og faste priser. De anførte rentesatser og intervaller fremgår af Finansministeriets vejledning af 7. januar 2021 med titlen &quot;Den samfundsøkonomiske diskonteringsrente&quot;." date="2024-01-29" uuid="af85e760-25a6-4214-b085-dcfd7856cd81" locked="true">
