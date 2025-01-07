@@ -459,7 +459,7 @@
 				</costsbycode>
 			</results>
 		</version>
-		<version name="Let ydervæg - fibercementplader" description="Ydre lag er beklædt med fibercementplader med ventileret hulrum og vindspærre. Bærende lag med træskeletkonstruktion og mineraluldsisolering. Installationslag med mineraluldsisolering og afsluttende overflade i gips, spartlet og malet med akrylmaling." impactscenario="buildcollection" shadowpricescenario="kfasedshadowprice" grossfloorarea="1056.00" end="50">
+		<version name="Let ydervæg - fibercementplader" description="Ydre lag er beklædt med fibercementplader med ventileret hulrum og vindspærre. Bærende lag med træskeletkonstruktion og mineraluldsisolering. Installationslag med mineraluldsisolering og afsluttende overflade i gips, spartlet og malet med plastmaling." impactscenario="buildcollection" shadowpricescenario="kfasedshadowprice" grossfloorarea="1056.00" end="50">
 			<criteria>
 				<criterion name="Anden målsætning" label="Livscyklusøkonomi (LCC)" description="Generelt" comment="Løsningen har den bedste nutidsværdi af de 4 undersøgte vægløsninger." value="5" amount="3">
 					<information>
@@ -1208,6 +1208,20 @@
 			<row name="1" label="Lidt positiv" description="Lidt positiv vurdering svarende til en vis forbedring af situation i afdelingen efter renoveringen ift. renoveringsmålsætning." color="#99ffff" amount="1" />
 			<row name="2" label="Moderat positiv" description="Moderat positiv vurdering svarende til en væsentlig forbedring af situation i afdelingen efter renoveringen ift. renoveringsmålsætning." color="#00ffff" amount="2" />
 			<row name="-3" label="Meget positiv" description="Meget positiv vurdering svarende til en markant forbedring af situation i afdelingen efter renoveringen ift. renoveringsmålsætning." color="#00ff00" amount="3" />
+		</system>
+		<system name="lcamodules">
+			<group name="A1_3" code="A1_3" />
+			<group name="B2" code="B2" />
+			<group name="B3" code="B3" exclude="true" />
+			<group name="B4" code="B4" />
+			<group name="B5" code="B5" />
+			<group name="B6" code="B6" />
+			<group name="B7" code="B7" />
+			<group name="C1" code="C1" />
+			<group name="C2" code="C2" />
+			<group name="C3" code="C3" />
+			<group name="C4" code="C4" />
+			<group name="D" code="D" />
 		</system>
 		<system name="lcamodules">
 			<group name="A1_3" code="A1_3" />
